@@ -5,3 +5,4 @@ It is built-in Python using TKINTER built-in library for GUI and lambda function
 The python file can be run on terminal required.
  
  Developed with Python version 3.11
+#Python #Calculator #TKinter
